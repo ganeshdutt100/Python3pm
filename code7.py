@@ -11,3 +11,8 @@
 
 # for i in fruits:
 #     print(i)
+
+count = 1
+while count  <= 5:
+    print("Count " , count)
+    count += 1
