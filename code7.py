@@ -17,6 +17,13 @@
 #     print("Count " , count)
 #     count += 1
 
-for i in range(3):
-  for j  in range(2):
-    print(i , j)
+# for i in range(3):
+#   for j  in range(2):
+#     print(i , j)
+
+row = 5
+
+for i in range(row):
+    for j in range(row):
+        print("*" , end="")
+    print('')
