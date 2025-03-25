@@ -1,2 +1,2 @@
 
-            return "Tuesday"
+# value1 = "Apple"
