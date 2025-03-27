@@ -1,2 +1,2 @@
 
-# value1 = "Apple"
+#  print(" " * (rows - i) + "*" * (2 * i - 1))
